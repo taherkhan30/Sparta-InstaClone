@@ -1,0 +1,97 @@
+
+
+
+.left{
+  /* border: solid black 1px;
+  background-color: orange; */
+  display: inline-block;
+  float: left;
+  position: relative;
+  top: 100px;
+
+}
+
+.right{
+  /* float: left; */
+  /* border: solid lightgrey 1px; */
+   /* background-color: orange; */
+  display: inline-block;
+  position: relative;
+  top: 150px;
+  border: solid lightgrey 1px;
+  background-color: white;
+  text-align: center;
+}
+
+.loginfb {
+
+
+}
+
+.signup{
+
+font-weight: bold;
+font-family: arial;
+color: darkgrey;
+
+}
+
+body {
+padding: 230px;
+}
+
+input[type=text] {
+  width: 80%;
+  padding: 15px 3px;
+  margin: 3px 0;
+  box-sizing: border-box;
+  font-family: arial;
+  color: lightgrey;
+  font-size: 16px;
+}
+
+
+.smallimages{
+position: relative;
+top: 100px;
+
+}
+
+.gettheapp{
+position: relative;
+top: 50px;
+
+}
+
+.smalltext{
+
+  font-family: arial;
+  color: black;
+  border: solid lightgrey 1px;
+}
+
+
+nav {
+position: relative;
+top: 250px;
+right: 0px;
+}
+
+.copyright  {
+
+
+  position: relative;
+  top: 0px;
+  bottom: 500px;
+  right: 150px;
+  left: 800px;
+  font-family: arial;
+  color: lightgrey;
+}
+
+li {
+  display: inline;
+  font-weight: bold;
+  color: blue;
+  font-family: arial;
+}
